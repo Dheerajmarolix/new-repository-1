@@ -1,0 +1,16 @@
+Semicolons
+In C programming Semicolon is used to show the termination of Instruction. It is also called a statement terminator since every single statement should be ended with a semicolon. Semicolons are used to end statements in C.
+
+The Semicolon tells the compiler that the current statement has been terminated. If any statement in the Program ends without a semicolon, then the program will not compile and will generate an error message.
+
+C
+
+// C program to demonstrate use of Semicolon
+#include <stdio.h>
+ 
+int main() { printf("GeeksforGeeks") return 0; }
+Error
+
+./253df686-61b0-495f-98fe-46dfeb318172.c: In function 'main':
+./253df686-61b0-495f-98fe-46dfeb318172.c:7:5: error: expected ';' before 'return'
+     return 0;
