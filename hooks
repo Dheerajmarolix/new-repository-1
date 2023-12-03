@@ -1,0 +1,16 @@
+C
+
+// Basic Syntax of C Program
+#include <stdio.h>
+ 
+// main function
+int main()
+{
+ 
+    // body
+    printf("Hi! This is a basic C program.");
+ 
+    // return statement
+    return 0;
+}
+Output
