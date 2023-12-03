@@ -1,0 +1,12 @@
+1. Specifier
+It is the character that denotes the type of data. Some commonly used specifiers are:
+
+%d: for printing integers
+%f: for printing floating-point numbers
+%c: for printing characters
+%s: for printing strings
+%p: for printing memory addresses
+%x: for printing hexadecimal values
+Example
+
+printf("%c", char_variable);
