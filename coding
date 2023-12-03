@@ -1,0 +1,10 @@
+Integer:
+Input: scanf("%d", &intVariable);
+Output: printf("%d", intVariable);
+Float:
+Input: scanf("%f", &floatVariable);
+Output: printf("%f", floatVariable);
+Character:
+Input: scanf("%c", &charVariable);
+Output: printf("%c", charVariable);
+Please refer Format specifiers in C for more examples
